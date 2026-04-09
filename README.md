@@ -1,2 +1,0 @@
-# OSS
-open source software
